@@ -6,7 +6,7 @@ email: twink1313@me.com
 description: "May you found your worth in the waking world."
 keyword: "Waking World"
 url: "http://twink13.com"              # your host, for absolute URL
-baseurl: "/WakingWorld"         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
@@ -69,7 +69,7 @@ kramdown:
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Unity shader 学习和分享"
-sidebar-avatar: /WakingWorld/img/common/avatar-whacka.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/common/avatar-whacka.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
