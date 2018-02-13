@@ -1,5 +1,6 @@
 ---
 published: true
+subtitle: 如何脱离摄像机渲染物体
 ---
 ## 为什么不使用摄像机渲染物体
 Camera.Render()接口被调用后,Unity帮助我们做了一系列操作,包括渲染目标的设置,Mesh级别可视区域剔除,摄像机的Layer可见性剔除,排序,设置MVP矩阵信息等等.
